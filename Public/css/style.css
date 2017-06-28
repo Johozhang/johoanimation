@@ -1198,6 +1198,14 @@ img {
 	height:300px;
 	background-image:url(../image/piechart-back.png)
 }
+.piechart-back-1 {
+	position:absolute;
+	left:0;
+	top:0;
+	width:300px;
+	height:300px;
+	background-image:url(../image/piechart-back-2.png)
+}
 #piechart-foxnews {
 	left:50px;
 	top:130px
@@ -1356,10 +1364,10 @@ img {
 	bottom:70%
 }
 #plant-ribbon-1 {
-	left:196px
+	left:180px
 }
 #plant-ribbon-2 {
-	left:338px
+    left: 350px;
 }
 #plant-ribbon-3 {
 	left:566px
