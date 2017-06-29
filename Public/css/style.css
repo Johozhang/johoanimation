@@ -99,7 +99,7 @@ a {
 .banner-text-b {
 	line-height:60px;
 	font-family:frankfurter-plain;
-	font-size:70px
+	font-size:40px
 }
 .banner-text-c {
 	font-family:frankfurter-medium-plain;
@@ -1772,7 +1772,8 @@ img {
 #social-container {
 	position:absolute;
 	width:120px;
-	left:85%
+	left:85%;
+	display: none;
 }
 #social-middle {
 	position:relative;
